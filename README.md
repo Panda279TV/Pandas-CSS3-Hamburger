@@ -1,5 +1,5 @@
 # Pandas CSS3 Hamburger
-#### Description 
+#### There are many good hamburgers or also hamburgers with 10 different animations. I only wanted one to keep it as small as possible! I used an extra div and span because I find it easier, more comfortable and better. Everyone understands it right away and it is as little as possible. There are hamburgers with 3-5 nested elements.
 
 
 ##### To use this hamburger, you just have to include the following link in the Head Tag. Link the Author!
@@ -32,9 +32,7 @@ The [DEMO](https://github.com/Panda279TV/Pandas-CSS3-Hamburger/blob/master/panda
 
 ## First Step
 
-
-The HTML Part! Copy this to your HTML Site!
-
+###### Just insert the code below where you want the hamburger to be!
 
     <div class="hamburger">
       <span></span>
@@ -44,8 +42,7 @@ The HTML Part! Copy this to your HTML Site!
 
 ## Introduction
 
-The Hamburger need a little Javascript, that he can Animate his self! Just Toggle the is-active class! Copy this to your Javascript File!
-
+###### The hamburger needs a little bit of Javascript. The only thing you have to do is toggle the class "is-active"! So when you click, the class is added and when you click again it is removed! Just insert the code below into your Javascript file.
 
     var hamburger = document.querySelector('.hamburger');
 
@@ -54,4 +51,3 @@ The Hamburger need a little Javascript, that he can Animate his self! Just Toggl
     })
 
 ---
-
