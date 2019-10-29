@@ -59,6 +59,6 @@ The [DEMO](https://github.com/Panda279TV/Pandas-CSS3-Hamburger/blob/master/panda
     $hamburger = $('.hamburger');
     
     $hamburger.on('click', function () {
-        $('.menu').toggleClass("is-active");
+        $hamburger.toggleClass("is-active");
     });
 ---
