@@ -37,6 +37,10 @@ The [DEMO](https://github.com/Panda279TV/Pandas-CSS3-Hamburger/blob/master/panda
     <div class="hamburger">
       <span></span>
     </div>
+    
+    OR
+    
+    <div class="hamburger"><span></span></div>
 
 ---
 
@@ -50,4 +54,11 @@ The [DEMO](https://github.com/Panda279TV/Pandas-CSS3-Hamburger/blob/master/panda
       hamburger.classList.toggle("is-active");
     })
 
+    OR
+    
+    $hamburger = $('.hamburger');
+    
+    $hamburger.on('click', function () {
+        $('.menu').toggleClass("is-active");
+    });
 ---
