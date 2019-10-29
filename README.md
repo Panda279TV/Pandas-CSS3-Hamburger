@@ -25,7 +25,7 @@ The [DEMO](https://github.com/Panda279TV/Pandas-CSS3-Hamburger/blob/master/panda
 - Minimalistic and Small
 - Simple, Easy and Fast to learn
 - No CSS `!Important`
-- Only about 1300 kilobytes (pandas-hamburgers.min.css)
+- Only about 1.300 kilobytes (pandas-hamburgers.min.css)
 - Works with older browsers (-webkit, -moz, -o, -ms)
 
 ---
