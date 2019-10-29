@@ -1,5 +1,3 @@
-# Pandas-CSS3-Hamburger
-
 # Pandas CSS3 Hamburger
 #### Description 
 
@@ -17,7 +15,6 @@ Example:
 ---
 
 ## Demo
-
 ![](pandas-hamburger-demo.gif)
 
 The [DEMO](https://github.com/Panda279TV/Pandas-CSS3-Hamburger/blob/master/pandas-hamburger-demo.gif) shows the [HTML FILE](https://github.com/Panda279TV/Pandas-CSS3-Hamburger/blob/master/pandas-hamburger-test.html). You can download this and the CSS and have a look at it again.
@@ -36,6 +33,9 @@ The [DEMO](https://github.com/Panda279TV/Pandas-CSS3-Hamburger/blob/master/panda
 ## First Step
 
 
+The HTML Part! Copy this to your HTML Site!
+
+
     <div class="hamburger">
       <span></span>
     </div>
@@ -44,6 +44,7 @@ The [DEMO](https://github.com/Panda279TV/Pandas-CSS3-Hamburger/blob/master/panda
 
 ## Introduction
 
+The Hamburger need a little Javascript, that he can Animate his self! Just Toggle the is-active class! Copy this to your Javascript File!
 
 
     var hamburger = document.querySelector('.hamburger');
