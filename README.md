@@ -30,7 +30,7 @@ The [DEMO](https://github.com/Panda279TV/Pandas-CSS3-Hamburger/blob/master/panda
 
 ## First Step
 
-###### Just insert the code below where you want the hamburger to be!
+#### Just insert the code below where you want the hamburger to be!
 
     <div class="hamburger">
       <span></span>
@@ -44,7 +44,7 @@ The [DEMO](https://github.com/Panda279TV/Pandas-CSS3-Hamburger/blob/master/panda
 
 ## Introduction
 
-###### The hamburger needs a little bit of Javascript. The only thing you have to do is toggle the class "is-active"! So when you click, the class is added and when you click again it is removed! Just insert the code below into your Javascript file.
+#### The hamburger needs a little bit of Javascript. The only thing you have to do is toggle the class "is-active"! So when you click, the class is added and when you click again it is removed! Just insert the code below into your Javascript file.
 
     var hamburger = document.querySelector('.hamburger');
 
