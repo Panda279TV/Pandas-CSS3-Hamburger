@@ -1,5 +1,7 @@
 # Pandas CSS3 Hamburger
-#### There are many good hamburgers or also hamburgers with 10 different animations. I only wanted one to keep it as small as possible! I used an extra div and span because I find it easier, more comfortable and better. Everyone understands it right away and it is as little as possible. There are hamburgers with 3-5 nested elements.
+#### There are many good hamburgers or also hamburgers with 3 or more different animations. I only wanted one to keep it as small as possible! I used an extra div and span because I find it easier, more comfortable and better. Everyone understands it right away and it is as little as possible. There are hamburgers with 3-5 nested elements.
+
+
 
 
 ##### To use this hamburger, you just have to include the following link in the Head Tag. Link the Author!
