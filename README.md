@@ -54,7 +54,7 @@ The [DEMO](https://github.com/Panda279TV/Pandas-CSS3-Hamburger/blob/master/panda
       hamburger.classList.toggle("is-active");
     })
 
-    OR
+    OR jQuery
     
     $hamburger = $('.hamburger');
     
